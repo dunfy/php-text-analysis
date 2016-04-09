@@ -36,7 +36,6 @@
     },
     "require" : {
         "php": ">=5.5",
-        "yooper/stop-words": "dev-master",
         "symfony/console" : "3.0.1"
     },
     "require-dev": {
